@@ -38,17 +38,18 @@ Applicants who are PhD students in Statistics at the University of Auckland must
 - Have successfully passed their provisional year review (confirmation of candidature)
 - Have a supervisor (or relevant Department of Statistics academic) who has a demonstrable, pre-existing academic relationship with a researcher at the proposed host institution
 
-### 3.3 Visiting Students to New Zealand
+### 3.3 Visiting Students to New Zealand, or from within New Zealand
 
-Applicants from overseas institutions must:
+Applicants must:
 
-- Be enrolled in a PhD programme in Statistics at a recognised institution
+- Be enrolled in a PhD programme in Statistics, or a closely related academic discipline, at a recognised institution
 - Have a supervisor who has a demonstrable, pre-existing academic relationship with a member of academic staff in the Department of Statistics at the University of Auckland
 - Note: This scholarship is not intended to initiate new collaborations; applications without clear evidence of an existing relationship will not be considered
 
 ## 4. Nature of the Visit
 
 - Visits may be inbound (to the University of Auckland) or outbound (from the University of Auckland)
+- Outbound visits may be from the University of Auckland to another institution within New Zealand
 - The duration of the visit must be no less than six weeks
 - The duration of the visit should be appropriate to the proposed research project (typically between 6 weeks and 6 months)
 - The visit must be hosted by an academic within the relevant department at the destination institution
@@ -72,16 +73,18 @@ The proposal should:
 - Outline the research objectives and methodology
 - Demonstrate how the visit will contribute to the project’s success
 - Include a feasible timeline for completion
+- Include a budget so that financial feasibility can be assessed
 - Identify expected research outputs
 
 The following conditions apply:
 
+- Projects should align with the scope of the student's PhD, but novel areas of research are not necessarily excluded
 - Projects focused solely on the completion or writing up of a PhD thesis are not eligible
 
 Preference will be given to projects where:
 
 - A primary goal is the preparation and submission of a peer-reviewed publication within a reasonable timeframe
-- The collaboration meaningfully advances the student’s PhD research
+- The collaboration meaningfully advances the student’s PhD research or their academic career
 
 ## 7. Application Requirements
 
