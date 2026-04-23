@@ -120,3 +120,5 @@ The scholarship is expected to:
 - Enhance the research experience and output of PhD students
 - Increase the rate of high-quality joint publications
 - Raise the research profile of the Department of Statistics at the University of Auckland
+
+[Edit this page](https://github.com/jmcurran/my-docs/edit/master/PhDScholarshipProposal.md)
