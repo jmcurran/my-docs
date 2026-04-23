@@ -9,7 +9,7 @@ output:
 
 This proposal outlines the establishment of a PhD Travel / Visiting Scholarship within the Department of Statistics at the University of Auckland. The purpose of this scholarship is to support high-quality research collaboration through structured academic visits, either by:
 
-- PhD students from overseas institutions visiting the University of Auckland, or
+- PhD students from external or overseas institutions visiting the University of Auckland, or
 - PhD students in Statistics at the University of Auckland undertaking a research visit at an external institution.
 
 The scholarship is intended to strengthen existing research collaborations and produce tangible research outputs.
@@ -52,7 +52,7 @@ Applicants must:
 - Outbound visits may be from the University of Auckland to another institution within New Zealand
 - The duration of the visit must be no less than six weeks
 - The duration of the visit should be appropriate to the proposed research project (typically between 6 weeks and 6 months)
-- The visit must be hosted by an academic within the relevant department at the destination institution
+- The visit must be hosted by an academic within the relevant department at the destination institution (outbound) or by an academic member of the Department of Statistics (inbound)
 - The visit must clearly benefit the PhD student and, where applicable, the University of Auckland academic involved
 
 ## 5. Collaboration Requirement
