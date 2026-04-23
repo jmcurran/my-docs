@@ -105,4 +105,6 @@ The scholarship is expected to:
 - Enhance the research experience and output of PhD students  
 - Increase the rate of high-quality joint publications  
 - Strengthen connections between universities, polytechnics, and public research organisations  
-- Raise the profile of Statistics and Data Science within the New Zealand research landscape  
+- Raise the profile of Statistics and Data Science within the New Zealand research landscape
+
+[Edit this page](https://github.com/jmcurran/my-docs/edit/master/NZSA_PhD_Travel_Scholarship_Outbound.md)
