@@ -26,7 +26,7 @@ The scholarship is intended to strengthen existing research collaborations and p
 
 Applicants must:
 
-- Be currently enrolled in a PhD programme in Statistics
+- Be currently enrolled in a PhD programme in Statistics or a closely related discipline
 - Be at least in their second year of study (or equivalent)
 - Demonstrate strong academic performance and research capability
 
